@@ -1,5 +1,9 @@
 # Releases
 
+  ## perceval-public-inbox 0.1.25 - (2025-01-21)
+  
+  * Update Poetry's package dependencies
+
   ## perceval-public-inbox 0.1.24 - (2024-12-11)
   
   * Update Poetry's package dependencies
